@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋, I'm Rohit Kumar Ram! ✨</h1>
+<h1 align="center">Greetings👋, I'm Rohit Kumar Ram! ✨</h1>
 <h3 align="center">A passionate AI & ML Developer 🚀</h3>
 
 
