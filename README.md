@@ -25,9 +25,10 @@
 ---
 
 ## 📌 **Pinned Projects**
-🔹 [Health Chatbot](https://github.com/rohitkumarram410/AI-Health-Chatbot) 🔬  
-🔹 [FaceTrack](https://github.com/rohitkumarram410/Real-Time-Attendance-System-Using-Image-Recognition-) 📸  
+🔹 [FaceTrack](https://github.com/rohitkumarram410/FaceTrack) 📸  
 🔹 [JobPrep](https://github.com/rohitkumarram410/JobPrep) ⚛  
+🔹 [Health Chatbot](https://github.com/rohitkumarram410/AI-Health-Chatbot) 🔬  
+🔹 [Adventure_Game](https://github.com/rohitkumarram410/Adventure_Game) 🎮 
 
 ---
 
