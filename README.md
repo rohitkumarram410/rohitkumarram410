@@ -45,11 +45,17 @@
 
 ---
 
-## 🚀 GitHub Stats:
+## 🚀 GitHub Stats
 <table align="center">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitkumarram410&theme=radical" alt="GitHub Stats" style="border: 2px solid white;"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitkumarram410&theme=radical" alt="Most Used Languages" style="border: 2px solid white;"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarram410&layout=compact&theme=radical" alt="Language Stats" style="border: 2px solid white;"/></td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitkumarram410&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitkumarram410&theme=radical" alt="Repos by Language" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarram410&layout=compact&langs_count=10&theme=radical" alt="Most Used Languages" />
+    </td>
   </tr>
 </table>
