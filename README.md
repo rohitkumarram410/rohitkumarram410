@@ -1,6 +1,7 @@
 <h1 align="center">Greetings👋, I'm Rohit Kumar Ram! </h1>
 <h3 align="center">A passionate AI & ML Developer 🚀</h3>
 
+---
 
 - 🎓 **3rd-year CSE student** | Specialization in AI & ML 
 - 🔭 Currently working on **Quiz-based applications & real-time ML projects**  
