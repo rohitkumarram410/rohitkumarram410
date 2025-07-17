@@ -3,7 +3,7 @@
 
 ---
 
-- 🎓 **3rd-year CSE student** | Specialization in AI & ML 
+- 🎓 **Final year CSE student** | Specialization in AI & ML 
 - 🔭 Currently working on **Quiz-based applications & real-time ML projects**  
 - 🧠 Exploring **Deep Learning, Cloud Computing, and Scientific Machine Learning**  
 - 🛠  Building **JobPrep 🚀 (A C++ Quiz App for placement preparation)**  
